@@ -1,4 +1,5 @@
-﻿int a, b; //int тип целочисленных данных
+﻿//Задание1. Программа, которая на вход принимает два числа и выдаёт максимальное.
+int a, b; //int тип целочисленных данных
          Console.WriteLine("Введите два числа : "); //Console.Writline выводит что то в окно терминала
          a = Convert.ToInt32(Console.ReadLine());
          b = Convert.ToInt32(Console.ReadLine());
